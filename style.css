@@ -1,9 +1,27 @@
 .Contiene{
 
-    background-color:burlywood;
-    text-align: center;
+    background-color: rgb(190, 183, 183);
     color: aliceblue;
     padding: 10px;
-    border-radius: 300px;
+    border: 2px solid black;
+    border-radius: 10px;
 
+}
+
+.Fotos{
+
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    border: 3px solid mediumorchid;
+
+}
+
+p{
+    padding-left: 10px;
+}
+
+ul li{
+    font-size: x-large;
+    color: brown;
 }
